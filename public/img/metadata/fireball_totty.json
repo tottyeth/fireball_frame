@@ -1,0 +1,23 @@
+{
+  "name": "fireball",
+  "description": "dither collage\n\n---\n\n[totty everyday 330](https://twitter.com/totdgbtagb/status/1750533991688720731)",
+  "image": "https://npuu6lyljgt4xelmh2fslbvp3hzcxg5iaaeqprshdofhyxm3pcnq.arweave.net/a-lPLwtJp8uRbD6LJYav2fIrm6gACQfGRxuKfF2beJs",
+  "attributes": [
+    {
+      "trait_type": "Artist",
+      "value": "totty"
+    },
+    {
+      "trait_type": "totty everyday #",
+      "value": "330"
+    },
+    {
+      "trait_type": "type",
+      "value": "GIF"
+    },
+    {
+      "trait_type": "Minted via",
+      "value": "Farcaster Frames"
+    }
+  ]
+}
