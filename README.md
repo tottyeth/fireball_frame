@@ -3,7 +3,7 @@ Exclusive art mint by [totty.eth](https://warpcast.com/totty.eth) for Farcaster 
 
 Made possible by heavily reusing [On-Chain-Cow-Farcaster-Frame](https://github.com/WillPapper/On-Chain-Cow-Farcaster-Frame) by [@will/@WillPapper](https://warpcast.com/will)
 
-Note that this code is hacked together and there will quickly be better open-source examples of minting frames.
+**Note that this code is hacked together and there will quickly be better open-source examples of minting frames.**
 
 ## Build instructions
 
