@@ -1,7 +1,7 @@
-# Fireball by totty.eth
-Exclusive art mint for Farcaster early(ish) adopters during the Frambrian explosion.
+# Fireball by [totty.eth](https://warpcast.com/totty.eth)
+Exclusive art mint by [totty.eth](https://warpcast.com/will) for Farcaster early(ish) adopters during the Frambrian explosion.
 
-Made possible by heavily reusing [On-Chain-Cow-Farcaster-Frame](https://github.com/WillPapper/On-Chain-Cow-Farcaster-Frame) by @will/@WillPapper
+Made possible by heavily reusing [On-Chain-Cow-Farcaster-Frame](https://github.com/WillPapper/On-Chain-Cow-Farcaster-Frame) by [@will/@WillPapper](https://warpcast.com/will)
 
 Note that this code is hacked together and there will quickly be better open-source examples of minting frames.
 
