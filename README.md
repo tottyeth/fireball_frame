@@ -5,6 +5,8 @@ Made possible by heavily reusing [On-Chain-Cow-Farcaster-Frame](https://github.c
 
 **Note that this code is hacked together and there will quickly be better open-source examples of minting frames.**
 
+In fact, there already is within hours of uploading this code! Highly recommend using [this repo](https://github.com/lottopgf/zora-mint-frame) instead, especially if you don't want to deploy a contract and would rather use Zora as a back-end. Thanks [@lottopgf](https://github.com/lottopgf)!
+
 ## Build instructions
 
 - Follow instructions in comment on top of `fireball-mint.ts`.
